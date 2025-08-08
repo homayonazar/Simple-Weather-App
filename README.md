@@ -8,7 +8,6 @@ It's a Simple Weather Application made by using HTML, CSS & JavaScript.
 
 **This project was forked by [@Homayonazar](https://homayonazar.com).**
 
-### To view the changes, please go to the 'my_fork' branch.
 
 ---
 
